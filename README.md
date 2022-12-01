@@ -1,12 +1,34 @@
-## markdown
+## Online Játékok
+
+![kép](https://mp1st.com/wp-content/uploads/2020/03/Free.Games_.jpg)
+---
+
+[krunker](https://krunker.io)
 
 ---
 
+[Minecraft](https://classic.minecraft.net)
 
-Ismerkedés az .md állományokkal
-<p style="color:red">Kiemelt szöveg: **félkövér**<p>
-<h1>Bing Bong</h1>
+---
 
-![soldier tf2](https://preview.redd.it/pydvj0m2wo581.jpg?width=640&crop=smart&auto=webp&s=2f14071357ffc57895b9050d6d698398053418bb)
+[slither.io](https://slither.io/)
 
-[engineer](https://imgflip.com/memetemplate/333623645/TF2-Buff-Engineer)
+---
+
+[y8-as Játékok](https://www.y8.com/)
+
+---
+[happywheels](https://totaljerkface.com/happy_wheels.tjf)
+
+---
+
+[survive.io](https://surviv.io/)
+
+---
+[Titkos](https://m4sport.hu/)
+
+---
+![kép2](https://trekhunt.com/hu/content/images/2022/01/miskolc-miskolctapolca-latnivalok.webp)
+
+---
+[Balatonsuond](https://szin.org/)
